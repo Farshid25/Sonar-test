@@ -1,0 +1,8 @@
+#surefire_0
+#Sun May 27 13:32:55 CEST 2018
+maven.test.failure.ignore=true
+sonar.organization=
+sonar.host.url=https\://sonarcloud.io
+basedir=C\:\\Users\\Farshid\\IdeaProjects\\friendspammer-helper
+user.dir=C\:\\Users\\Farshid\\IdeaProjects\\friendspammer-helper
+localRepository=C\:\\Users\\Farshid\\.m2\\repository
