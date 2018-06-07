@@ -1,4 +1,5 @@
-com\logging\HelloWorld.class
+com\friendspammer\User.class
+com\friendspammer\NewMongoTest.class
 com\friendspammer\EmailSender.class
 com\friendspammer\EmailSender$1.class
 com\friendspammer\MongoSaver.class

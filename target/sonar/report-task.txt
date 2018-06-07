@@ -1,0 +1,7 @@
+organization=farshid25-github
+projectKey=nl.hu.bep.opdracht2:friendspammer-helper
+serverUrl=https://sonarcloud.io
+serverVersion=7.2.0.12516
+dashboardUrl=https://sonarcloud.io/dashboard/index/nl.hu.bep.opdracht2:friendspammer-helper
+ceTaskId=AWPZhA5rRIlG_RTu9ryy
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AWPZhA5rRIlG_RTu9ryy
